@@ -1,0 +1,15 @@
+com\sicredicg\otzcreditoapi\service\LinhaService.class
+com\sicredicg\otzcreditoapi\model\dto\TipoLinhaDTO.class
+com\sicredicg\otzcreditoapi\repository\LinhaRepository.class
+com\sicredicg\otzcreditoapi\repository\TipoLinhaRepository.class
+com\sicredicg\otzcreditoapi\entity\linhas\GrupoLinha.class
+com\sicredicg\otzcreditoapi\entity\linhas\TipoLinha.class
+com\sicredicg\otzcreditoapi\controller\LinhaController.class
+com\sicredicg\otzcreditoapi\service\TipoLinhaService.class
+com\sicredicg\otzcreditoapi\mapper\TipoLinhaMapperImpl.class
+com\sicredicg\otzcreditoapi\entity\linhas\Linha.class
+com\sicredicg\otzcreditoapi\OtzCreditoApiApplication.class
+com\sicredicg\otzcreditoapi\controller\TipoLinhaController.class
+com\sicredicg\otzcreditoapi\entity\variacoes\PrazoMaximo.class
+com\sicredicg\otzcreditoapi\entity\linhas\DadosCadastroLinha.class
+com\sicredicg\otzcreditoapi\mapper\TipoLinhaMapper.class

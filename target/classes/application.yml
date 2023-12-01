@@ -1,0 +1,30 @@
+spring:
+  application:
+    name: otz-credito-api
+  datasource:
+    url: jdbc:postgresql://${DB_HOST:localhost}:${DB_PORT:5464}/otz
+    driverClassName: org.postgresql.Driver
+    username: ${DB_USER:otzadm}
+    password: ${DB_PASSWORD:sa}
+  jpa:
+    hibernate:
+      ddl-auto: ${DB_DDL:update}
+    show-sql: ${DB_SHOW_SQL:true}
+    open-in-view: false
+    database: postgresql
+    database-platform: org.hibernate.dialect.PostgreSQLDialect
+    generate-ddl: false
+#  data:
+#    redis:
+#      host: ${REDIS_HOST:localhost}
+#      port: ${REDIS_PORT:6379}
+#      password: ${REDIS_PASSWORD:sa}
+#  cache:
+#    type: redis
+
+server:
+  port: ${PORT:8269}
+eureka:
+  client:
+    service-url:
+      defaultZone: ${EUREKA_URL:http://localhost:8761/eureka}

@@ -1,0 +1,14 @@
+C:\Git\otimiza\otz-credito-api-ab\otz-credito-api\src\main\java\com\sicredicg\otzcreditoapi\entity\linhas\GrupoLinha.java
+C:\Git\otimiza\otz-credito-api-ab\otz-credito-api\src\main\java\com\sicredicg\otzcreditoapi\repository\TipoLinhaRepository.java
+C:\Git\otimiza\otz-credito-api-ab\otz-credito-api\src\main\java\com\sicredicg\otzcreditoapi\service\LinhaService.java
+C:\Git\otimiza\otz-credito-api-ab\otz-credito-api\src\main\java\com\sicredicg\otzcreditoapi\OtzCreditoApiApplication.java
+C:\Git\otimiza\otz-credito-api-ab\otz-credito-api\src\main\java\com\sicredicg\otzcreditoapi\repository\LinhaRepository.java
+C:\Git\otimiza\otz-credito-api-ab\otz-credito-api\src\main\java\com\sicredicg\otzcreditoapi\service\TipoLinhaService.java
+C:\Git\otimiza\otz-credito-api-ab\otz-credito-api\src\main\java\com\sicredicg\otzcreditoapi\entity\linhas\TipoLinha.java
+C:\Git\otimiza\otz-credito-api-ab\otz-credito-api\src\main\java\com\sicredicg\otzcreditoapi\controller\TipoLinhaController.java
+C:\Git\otimiza\otz-credito-api-ab\otz-credito-api\src\main\java\com\sicredicg\otzcreditoapi\entity\variacoes\PrazoMaximo.java
+C:\Git\otimiza\otz-credito-api-ab\otz-credito-api\src\main\java\com\sicredicg\otzcreditoapi\entity\linhas\DadosCadastroLinha.java
+C:\Git\otimiza\otz-credito-api-ab\otz-credito-api\src\main\java\com\sicredicg\otzcreditoapi\mapper\TipoLinhaMapper.java
+C:\Git\otimiza\otz-credito-api-ab\otz-credito-api\src\main\java\com\sicredicg\otzcreditoapi\model\dto\TipoLinhaDTO.java
+C:\Git\otimiza\otz-credito-api-ab\otz-credito-api\src\main\java\com\sicredicg\otzcreditoapi\controller\LinhaController.java
+C:\Git\otimiza\otz-credito-api-ab\otz-credito-api\src\main\java\com\sicredicg\otzcreditoapi\entity\linhas\Linha.java

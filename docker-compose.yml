@@ -1,0 +1,20 @@
+version: '3.1'
+
+services:
+  dbcredito:
+    container_name: db_credito
+    image: postgres
+    environment:
+      POSTGRES_USER: otzadm
+      POSTGRES_PASSWORD: $1CR3D10TZ
+      POSTGRES_DB: otz
+      TZ: America/Sao_Paulo
+      PGTZ: America/Sao_Paulo
+    ports:
+    - "5464:5432"
+    volumes:
+       - dbcredito:/data/postgres
+    restart: always
+
+volumes:
+    dbprod:
