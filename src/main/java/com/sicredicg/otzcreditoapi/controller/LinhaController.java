@@ -21,10 +21,10 @@ public class LinhaController {
     public ResponseEntity<Linha> createCreditoPf(@RequestBody Linha linhaPf) {
         return ResponseEntity.ok().body(service.createLinhaPf(linhaPf));
     }
+    //teste
 
     @GetMapping("/{id}")
     public ResponseEntity<Linha> findById(@PathVariable Long id){
-
         return ResponseEntity.ok().body(service.findById(id));
     }
 }
